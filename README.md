@@ -7,7 +7,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MineTechOficial&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MineTechOficial&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MineTechOfical&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MineTechOficial&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
