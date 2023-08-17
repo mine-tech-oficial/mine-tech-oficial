@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my game development TCC<br>🌱 I’m currently learning SvelteKit<br>⚡ Fun fact: I'm first learned to program when I was a kid!
+🔭 I’m currently working on my game development TCC<br>🌱 I’m currently learning SvelteKit<br>⚡ Fun fact: I first learned to program when I was a kid!
 
 
 # 💻 Tech Stack:
